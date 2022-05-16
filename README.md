@@ -36,7 +36,7 @@ Minha concepção para o aplicativo é de uma rede social completa de nicho gast
 
 Ao todo foram desenvolvidas 56 telas e dezenas de interações para a navegação completa do protótipo, que você pode interagir [clicando aqui](https://www.figma.com/proto/w5l1BQ2Opwkuy68i7BW4oB/Aluchefs?node-id=333%253A331&scaling=scale-down&page-id=55%253A1780&starting-point-node-id=333%253A331).
 
-O passo-a-passo e entregas das etapas/processo de criação:
+O passo-a-passo e entregas das etapas/processo de criação (você pode clicar nas imagens para acessá-las em alta resolução):
 
 <div align="center" width="100%">
   
